@@ -1,6 +1,6 @@
 # Q1K3DIT
 
-Q1K3DIT is a browser based 3D block level editor for the Q1K3 JavaScript engine in `/Users/jsh/dev/repos/q1k3`.
+Q1K3DIT is a browser based 3D block level editor for the Q1K3 JavaScript engine at [q1k3](https://github.com/phoboslab/q1k3).
 
 ![Q1K3DIT 3D editor](docs/q1k3dit-3d-editor.png)
 
